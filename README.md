@@ -1,4 +1,4 @@
-# [YOUR NAME]
+# [John Paul B. Bajao]
 ### Full-Stack Web & Mobile Engineer
 
 ---
@@ -9,10 +9,10 @@
 
 ## 01 // ABOUT ME
 
-I engineer end-to-end applications across web, mobile, and embedded kiosk environments. My technical foundation spans building backend architectures in Python and PHP, crafting responsive interfaces with modern CSS frameworks, and developing cross-platform mobile applications in Flutter. I actively leverage AI-assisted workflows to accelerate development cycles, optimize testing, and deliver production-ready software.
+I am a Full-Stack Web developer with a passion for building scalable, and clean solutions from concept to development. With an experience in Python and PHP back-end ecosystems alongside modern web frameworks, I specialize in engineering reliable architectures with an intuitive user interfaces.
 
 * **Focus Areas:** Full-Stack Web Engineering, Mobile Systems, RESTful API Architecture
-* **Education:** B.S. Information Technology / Computer Science
+* **Education:** B.S. Information Technology
 * **Methodology:** Component-Driven Design, Test-Driven Workflow, Version Control Discipline
 
 ---
@@ -20,7 +20,7 @@ I engineer end-to-end applications across web, mobile, and embedded kiosk enviro
 ## 02 // CAREER GOALS
 
 * **Immediate:** Join an agile engineering team as a Full-Stack Software Engineer to build and deploy scalable, production-grade applications.
-* **Mid-Term:** Deepen expertise in cloud-native infrastructure, container orchestration, and automated CI/CD deployment pipelines.
+* **Mid-Term:** Deepen expertise in cloud-native infrastructure, container orchestration, System Administration, and automated CI/CD deployment pipelines.
 * **Long-Term:** Lead software architecture initiatives, designing resilient distributed systems and mentoring engineering teams.
 
 ---
@@ -40,51 +40,48 @@ I engineer end-to-end applications across web, mobile, and embedded kiosk enviro
 
 ## 04 // TECHNOLOGIES TO LEARN
 
-* **DevOps & Cloud:** Docker, Kubernetes, Amazon Web Services (AWS)
-* **Languages & Frameworks:** Go (Golang), TypeScript, Next.js
-* **System Design:** Microservices Architecture, Event-Driven Systems, CI/CD Automation
+* **DevOps & Cloud:** Docker, Amazon Web Services (AWS)
+* **Languages & Frameworks:** Go (Golang), React.js, Node.js
+* **System Design:** Microservices Architecture, Event-Driven Systems, CI/CD Automation, System Administration
 
 ---
 
 ## 05 // CERTIFICATIONS
 
-* **[Certification Name]** — [Issuing Organization] | `[Year]`
-* **[Certification Name]** — [Issuing Organization] | `[Year]`
-* **[Certification Name]** — [Issuing Organization] | `[Year]`
+* **[AWS Cloud Quest: Generative AI Practitioner - Training Badge]** — [Amazon Web Services (AWS)] | `[2026]`
+* **[Introduction to IoT]** — [Cisco] | `[2026]`
 
 ---
 
 ## 06 // FEATURED PROJECTS
 
-### **[PRESSPOINT](https://github.com/your-username/presspoint)**
+### **[LINUX YIELD NETWORK]**
+*Command Line Interface Program*
+* **Overview:** Linux Yield Network (LYN) is a command-line interface program that acts as a one-key remote control for the presspoint website. Built for people that does not use linux.
+* **Key Features:**  It wraps four separate programs. the npm asset builder, the Gunicorn WSGI engine, nginx, and the Cloudflare tunnel into one keypress-driven menu to start the presspoint website. 
+* **Tech Stack:** Bash (Shell Script)
+
+### **[PRESSPOINT]**
 *Cloud-Based Interactive Kiosk System*
 * **Overview:** Interactive terminal platform for *The Gears Publication* (LSPU - Sta. Cruz Campus) unifying news distribution, campus wayfinding, and digital archives.
 * **Key Features:** Real-time editorial CMS, interactive building navigation, virtual campus tours, and searchable publication archives.
 * **Tech Stack:** Python, MySQL, Flutter, Tailwind CSS, Firebase
 
-### **[PilaServ](https://github.com/your-username/pilaserv)**
-*Human Resource Information System*
-* **Overview:** HRIS platform implementing localized record synchronization and data verification models.
-* **Key Features:** Batch log import processing secured by linked data hashing verification for record integrity.
-* **Tech Stack:** Python, MySQL, Bootstrap, JavaScript
+### **[SNEAKICKS]**
+*E-commerce Website Platform*
+* **Overview:** An E-commerce website platform, focuses on selling and buying branded shoes
+* **Key Features:** Seller Dashboard, Product Search, Admin Dashboard,
+* **Tech Stack:** HTML, CSS, JavaScript, Python (Flask)
 
-### **[NNHS Portal](https://github.com/your-username/nnhs-portal)**
-*Mobile-First Learner Management Platform*
-* **Overview:** Educational management portal optimized for mobile interfaces and academic performance tracking.
-* **Key Features:** Integrated predictive analytics workflows to monitor and evaluate student progress.
-* **Tech Stack:** Flutter, Dart, Supabase, Tailwind CSS
-
-### **[DuckGo](https://github.com/your-username/duckgo)**
-*Offline-First Agricultural Analytics Platform*
-* **Overview:** Inventory tracking and production analytics engine designed for agricultural asset management.
-* **Key Features:** Automated feed inventory tracking and quantitative daily yield ratio calculations per poultry batch.
-* **Tech Stack:** PHP (Laravel), MySQL, Vite, JavaScript
+### **[HappyHands]**
+*E-commerce Website Platform*
+* **Overview:** An E-commerce website platform, focuses on selling and buying baby essential items
+* **Key Features:** Product Search, Can order, Seller Dashboard, Admin Dashboard
+* **Tech Stack:** Python (Flask), HTML, CSS, JavaScript, Dart (Flutter)
 
 ---
 
 ## 07 // CONNECT
 
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **GitHub:** [github.com/your-username](https://github.com/your-username)
-* **Email:** [your.email@domain.com](mailto:your.email@domain.com)
-* **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
+* **LinkedIn:** [linkedin.com/in/leftoverrice](https://linkedin.com/in/leftoverrice)
+* **GitHub:** [github.com/LeftoverRice751](https://github.com/LeftoverRice751)
