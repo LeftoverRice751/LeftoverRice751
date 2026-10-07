@@ -1,5 +1,5 @@
 # [John Paul B. Bajao]
-### Full-Stack Web & Mobile Engineer
+### Full-Stack Web and Mobile Developer & Aspiring DevOps Engineer
 
 ---
 
